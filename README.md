@@ -14,8 +14,6 @@ The program demonstrates the basics of programming. When I say basic, it include
 
 I've been wanting to learn C++ so I made this project to help me begin learning the language. I plan to make a career using game engine programming and I found that C++ was the most relevant to Unreal Engine. My next project I will be using Unreal Engine and I intend to apply the skills I learned in this project in order to prepare for the next. It demonstrates how some of these basics can be put together to create something bigger in the future.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](https://youtu.be/lfZYtLAUbjI)
 
 # Development Environment
